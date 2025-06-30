@@ -1,0 +1,8 @@
+/* Importa Flux */
+@import '../../vendor/livewire/flux/dist/flux.css';
+
+/* Ahora, importa Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
