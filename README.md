@@ -97,7 +97,7 @@ php artisan serve
 
 
 # Errores:
-- Sino se ha configurado el correo de administrador en .env, saldrá un error a la hora de hacer el login, y cuando se ha relaizado un pedido.
+- Sino se ha configurado el correo de administrador en .env, saldrá un error a la hora de hacer el login, y cuando se ha realizado un pedido.
 - (A solucionar) El login se guarda en la caché, y aunque no se haga la segunda verificación se loguea.
 - La parte de cambiar a pariencia no está configurada en la mayoría de páginas, sólo en las que por defecto se crearon junto al proyecto de laravel.
 
